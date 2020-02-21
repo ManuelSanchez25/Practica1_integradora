@@ -1,0 +1,4 @@
+#Fri Feb 21 07:15:40 CST 2020
+base.0=C\:\\Users\\David\\Desktop\\moviles\\examen1\\estructura_practica_uno\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
